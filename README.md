@@ -1,5 +1,8 @@
 # ECO412_Project
 
+## General Equilibrium Impact Of India Joining CPTPP
+### 20 Countries considered -- 12 CPTTPP Countries + India + Other Top7 GDP nations
+
 Herman.ipynb --> it is the ORIGINAL Herman code  
 MyCode_Main.ipynb --> It is the Modified Herman's Code (designed for our Particular Case) 
 
